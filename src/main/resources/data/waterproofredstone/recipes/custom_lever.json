@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lever"
+    }
+  ],
+  "result": {
+    "item": "waterproofredstone:custom_lever"
+  }
+}

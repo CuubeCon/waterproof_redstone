@@ -1,0 +1,19 @@
+{
+  "item.waterproofredstone.custom_redstone_wire" : "Waterproof Redstone",
+
+  "block.waterproofredstone.custom_repeater" : "Waterproof Repeater",
+  "block.waterproofredstone.custom_redstone_torch" : "Waterproof Redstone Torch",
+  "block.waterproofredstone.custom_lever" : "Waterproof Lever",
+  "block.waterproofredstone.custom_stone_button" : "Waterproof Stone Button",
+  "block.waterproofredstone.custom_comparator" : "Waterproof Comparator",
+  "block.waterproofredstone.custom_oak_button" : "Waterproof Oak Button",
+  "block.waterproofredstone.custom_spruce_button" : "Waterproof Spruce Button",
+  "block.waterproofredstone.custom_birch_button" : "Waterproof Birch Button",
+  "block.waterproofredstone.custom_jungle_button" : "Waterproof Jungle Button",
+  "block.waterproofredstone.custom_acacia_button" : "Waterproof Acacia Button",
+  "block.waterproofredstone.custom_dark_oak_button" : "Waterproof Dark Oak Button",
+  "block.waterproofredstone.custom_crimson_button" : "Waterproof Crimson Button",
+  "block.waterproofredstone.custom_warped_button" : "Waterproof Warped Button",
+  "block.waterproofredstone.custom_polished_blackstone_button" : "Waterproof Polished Blackstone Button",
+  "itemGroup.waterproofredstone_mod_tab": "Waterproof Redstone Tab"
+}

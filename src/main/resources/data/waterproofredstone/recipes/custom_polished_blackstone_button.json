@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:polished_blackstone_button"
+    }
+  ],
+  "result": {
+    "item": "waterproofredstone:custom_polished_blackstone_button"
+  }
+}

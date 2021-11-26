@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:warped_button"
+    }
+  ],
+  "result": {
+    "item": "waterproofredstone:custom_warped_button"
+  }
+}

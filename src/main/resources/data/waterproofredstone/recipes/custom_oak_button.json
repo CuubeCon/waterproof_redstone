@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_button"
+    }
+  ],
+  "result": {
+    "item": "waterproofredstone:custom_oak_button"
+  }
+}
