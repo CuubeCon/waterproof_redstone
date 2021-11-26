@@ -40,7 +40,7 @@ Not with this mod, because this mod brings waterproofed redstone, repeater, comp
 
 To craft, simply place the vanilla items in the crafting field.
 
- '''
+'''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.waterproofredstone]] #optional
     # the modid of the dependency
